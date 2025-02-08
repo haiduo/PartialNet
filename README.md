@@ -70,7 +70,7 @@ python code/PartialNet/train_test.py --test_phase --checkpoint_path "your have t
 
 You can download pretrained models here:
 
-- comming soon. 
+- coming soon. 
 
 
 ## Results
