@@ -77,6 +77,20 @@ You can download pretrained models here:
 
 Please refer to our paper.
 
+## Reference
+For technical details and full experimental results, please check [the paper of PartialNet](https://arxiv.org/abs/2502.01303).
+```
+@misc{huang2025partialchannelnetworkcompute,
+      title={Partial Channel Network: Compute Fewer, Perform Better}, 
+      author={Haiduo Huang and Tian Xia and Wenzhe zhao and Pengju Ren},
+      year={2025},
+      eprint={2502.01303},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.01303}, 
+}
+```
+
 
  
  
